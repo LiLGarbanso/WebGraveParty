@@ -46,6 +46,6 @@ public class Caratula : MonoBehaviour
         yield return new WaitForSeconds(1f);
         caratula.SetBool("empezar",true);
         yield return new WaitForSeconds(1.4f);
-        SceneManager.LoadScene("Scenes/Menu Principal");
+        SceneManager.LoadScene("Scenes/MenuPrincipal");
     }
 }
