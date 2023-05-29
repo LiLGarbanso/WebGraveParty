@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SobreNosotros.unity
     guid: 4b17c53582eae344eaace838ea33f5fc
+  - enabled: 1
+    path: Assets/Scenes/Lore v2.unity
+    guid: d8844800930748c4589da4cb06362288
   m_configObjects: {}

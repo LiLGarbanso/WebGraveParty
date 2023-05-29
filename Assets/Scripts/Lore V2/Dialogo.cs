@@ -12,11 +12,9 @@ public class Dialogo : MonoBehaviour
     public int fraseActual;
     public AudioSource src;
     public AudioClip talk;
-    public GameObject[] capas;
 
     private void Start()
     {
-        capas[0].SetActive(true);
         puedeHablar = true;
         mostrando = false;
         MostrarFrase();
@@ -52,14 +50,5 @@ public class Dialogo : MonoBehaviour
         StopCoroutine("MostrarLetras");
         puedeHablar = false;
         txt.text = "";
-    }
-
-    public void CambiarCapa(int id)
-    {
-        for (int i = 0; i < capas.Length; i++)
-        {
-            capas[i].SetActive(false);
-        }
-        capas[id].SetActive(true);
     }
 }

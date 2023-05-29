@@ -7,6 +7,7 @@ using UnityEngine.Tilemaps;
 public class ItemTrigger : MonoBehaviour
 {
     public Dialogo dialogo;
+    public LoreMannager lm;
     public int frase;
     private bool puedeEntrar = true, dentro;
 
@@ -21,7 +22,7 @@ public class ItemTrigger : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.X))
             {
-                dialogo.CambiarCapa(frase);
+                lm.CambiarCapa(frase);
             }
         }
     }
