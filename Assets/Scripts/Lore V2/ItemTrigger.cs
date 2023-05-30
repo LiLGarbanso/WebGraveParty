@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using UnityEngine.Video;
 
 public class ItemTrigger : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class ItemTrigger : MonoBehaviour
     public int capa;
     public string frase;
     private bool puedeEntrar = true, dentro;
+    public bool tp;
 
     private void Start()
     {
@@ -24,7 +26,8 @@ public class ItemTrigger : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.X))
             {
                 dialogo.ReiniciarTexto();
-                lm.CambiarCapa(capa);
+                if (tp)
+                    lm.CambiarCapa(capa);
                 dialogo.puedeHablar = true;
             }
         }
@@ -32,6 +35,9 @@ public class ItemTrigger : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col)
     {
+        if (tp)
+            lm.botonInteractuar.SetActive(true);
+        dialogo.cuadroText.SetActive(true);
         dialogo.puedeHablar = true;
         dentro = true;
         if (!dialogo.mostrando)
@@ -42,7 +48,9 @@ public class ItemTrigger : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
+        lm.botonInteractuar.SetActive(false);
         dentro = false;
         dialogo.ReiniciarTexto();
+        dialogo.cuadroText.SetActive(false);
     }
 }

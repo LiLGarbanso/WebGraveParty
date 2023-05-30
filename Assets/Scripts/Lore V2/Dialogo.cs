@@ -10,6 +10,7 @@ public class Dialogo : MonoBehaviour
     [HideInInspector]public bool mostrando, puedeHablar;
     public AudioSource src;
     public AudioClip talk;
+    public GameObject cuadroText;
 
     private void Start()
     {

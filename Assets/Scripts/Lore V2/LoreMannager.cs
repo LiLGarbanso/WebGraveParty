@@ -10,33 +10,26 @@ public class LoreMannager : MonoBehaviour
     public GameObject[] capas;
     public Transform usuario, inicio;
     public Dialogo dialogo;
-    public string[] frasesIniciales;
-    public VideoPlayer vp;
-    
+    public GameObject botonInteractuar;
+
     private void Start()
     {
         capas[0].SetActive(true);
-        dialogo.MostrarFrase(frasesIniciales[0]);
     }
     
     public void CambiarCapa(int id)
     {
+        dialogo.cuadroText.SetActive(true);
         for (int i = 0; i < capas.Length; i++)
         {
             capas[i].SetActive(false);
         }
         capas[id].SetActive(true);
         usuario.position = inicio.position;
-        dialogo.MostrarFrase(frasesIniciales[id]);
     }
 
     public void Salida()
     {
         SceneManager.LoadScene("MenuPrincipal");
-    }
-
-    public void PlayVideo()
-    {
-        vp.Play();
     }
 }
