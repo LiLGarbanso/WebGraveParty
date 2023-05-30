@@ -12,6 +12,8 @@ public class MediaMng : MonoBehaviour
     public Book libro;
     public int tapaini;
     public int tapafin;
+    public Button atras;
+    public Button adelante;
 
     private void Start()
     {
@@ -20,16 +22,23 @@ public class MediaMng : MonoBehaviour
             p.SetActive(false);
         }
         panelZoom.SetActive(false);
+        PlayMedia();
     }
 
     public void PlayMedia()
     {
+        atras.interactable = true;
+        adelante.interactable = true;
         int pag = libro.currentPage;
         if (pag > tapaini && pag < tapafin )
         {
             pags[pag-(tapaini+1)].SetActive(true);
             pags[pag-tapaini].SetActive(true);
-        }
+        }else if (pag <= tapaini)
+        {
+            atras.interactable = false;
+        }else
+            adelante.interactable = false;
     }
 
     public void CleanMedia()
