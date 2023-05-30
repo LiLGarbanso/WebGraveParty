@@ -8,8 +8,6 @@ public class Dialogo : MonoBehaviour
 {
     public Text txt;
     [HideInInspector]public bool mostrando, puedeHablar;
-    public string[] frases;
-    public int fraseActual;
     public AudioSource src;
     public AudioClip talk;
 
@@ -17,23 +15,21 @@ public class Dialogo : MonoBehaviour
     {
         puedeHablar = true;
         mostrando = false;
-        MostrarFrase();
-        fraseActual = 0;
     }
 
-    public void MostrarFrase()
+    public void MostrarFrase(string s)
     {
         if (!mostrando)
         {
-            StartCoroutine(MostrarLetras());
+            StartCoroutine(MostrarLetras(s));
         }
     }
 
-    IEnumerator MostrarLetras()
+    IEnumerator MostrarLetras(string s)
     {
         mostrando = true;
         txt.text = "";
-        foreach (char c in frases[fraseActual])
+        foreach (char c in s)
         {
             if (puedeHablar)
             {
@@ -48,7 +44,7 @@ public class Dialogo : MonoBehaviour
     public void ReiniciarTexto()
     {
         StopCoroutine("MostrarLetras");
-        puedeHablar = false;
         txt.text = "";
+        mostrando = false;
     }
 }

@@ -5,8 +5,16 @@ using UnityEngine;
 public class Salida : MonoBehaviour
 {
     public LoreMannager lm;
+    public bool salida;
     private void OnTriggerEnter2D(Collider2D col)
     {
-        lm.Salida();
+        if (salida)
+        {
+            lm.Salida();
+        }
+        else
+        {
+            lm.CambiarCapa(0);
+        }
     }
 }

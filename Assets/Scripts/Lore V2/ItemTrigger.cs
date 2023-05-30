@@ -8,7 +8,8 @@ public class ItemTrigger : MonoBehaviour
 {
     public Dialogo dialogo;
     public LoreMannager lm;
-    public int frase;
+    public int capa;
+    public string frase;
     private bool puedeEntrar = true, dentro;
 
     private void Start()
@@ -22,7 +23,9 @@ public class ItemTrigger : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.X))
             {
-                lm.CambiarCapa(frase);
+                dialogo.ReiniciarTexto();
+                lm.CambiarCapa(capa);
+                dialogo.puedeHablar = true;
             }
         }
     }
@@ -33,8 +36,7 @@ public class ItemTrigger : MonoBehaviour
         dentro = true;
         if (!dialogo.mostrando)
         {
-            dialogo.fraseActual = frase; 
-            dialogo.MostrarFrase();
+            dialogo.MostrarFrase(frase);
         }
     }
 
