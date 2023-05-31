@@ -45,7 +45,7 @@ public class Dialogo : MonoBehaviour
     public void ReiniciarTexto()
     {
         txt.text = "";
-        StopCoroutine("MostrarLetras");
+        StopAllCoroutines();
         mostrando = false;
     }
 }

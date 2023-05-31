@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 2632164}
   - component: {fileID: 2632163}
   - component: {fileID: 2632162}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5062,7 +5062,7 @@ GameObject:
   - component: {fileID: 59272839}
   - component: {fileID: 59272841}
   - component: {fileID: 59272840}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: nigromante
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5138,7 +5138,7 @@ GameObject:
   - component: {fileID: 75280664}
   - component: {fileID: 75280666}
   - component: {fileID: 75280665}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6148,7 +6148,7 @@ GameObject:
   - component: {fileID: 107098818}
   - component: {fileID: 107098820}
   - component: {fileID: 107098819}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: inicio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6224,7 +6224,7 @@ GameObject:
   - component: {fileID: 127559171}
   - component: {fileID: 127559173}
   - component: {fileID: 127559172}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8104,7 +8104,7 @@ GameObject:
   - component: {fileID: 128005015}
   - component: {fileID: 128005017}
   - component: {fileID: 128005016}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Salida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8177,7 +8177,7 @@ GameObject:
   - component: {fileID: 139282946}
   - component: {fileID: 139282948}
   - component: {fileID: 139282947}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Salida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8253,7 +8253,7 @@ GameObject:
   - component: {fileID: 162748506}
   - component: {fileID: 162748505}
   - component: {fileID: 162748504}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11623,7 +11623,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 227005093}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Home
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11660,7 +11660,7 @@ GameObject:
   - component: {fileID: 236902569}
   - component: {fileID: 236902571}
   - component: {fileID: 236902570}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: pergamino
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11736,7 +11736,7 @@ GameObject:
   - component: {fileID: 284006439}
   - component: {fileID: 284006441}
   - component: {fileID: 284006440}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: esqueleto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11893,7 +11893,7 @@ GameObject:
   - component: {fileID: 317100441}
   - component: {fileID: 317100443}
   - component: {fileID: 317100442}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tumba
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11969,7 +11969,7 @@ GameObject:
   - component: {fileID: 350646726}
   - component: {fileID: 350646728}
   - component: {fileID: 350646727}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: txt2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12044,7 +12044,7 @@ GameObject:
   m_Component:
   - component: {fileID: 355822861}
   - component: {fileID: 355822862}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12128,7 +12128,7 @@ GameObject:
   m_Component:
   - component: {fileID: 382409629}
   - component: {fileID: 382409630}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Exclamaciones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12182,7 +12182,7 @@ GameObject:
   - component: {fileID: 423179552}
   - component: {fileID: 423179554}
   - component: {fileID: 423179553}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: txt2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12258,7 +12258,7 @@ GameObject:
   - component: {fileID: 436140657}
   - component: {fileID: 436140659}
   - component: {fileID: 436140658}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: txt1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12334,7 +12334,7 @@ GameObject:
   - component: {fileID: 450089762}
   - component: {fileID: 450089764}
   - component: {fileID: 450089763}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: txt2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12491,7 +12491,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 457505982}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Apilatumbas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12528,7 +12528,7 @@ GameObject:
   - component: {fileID: 459760121}
   - component: {fileID: 459760120}
   - component: {fileID: 459760119}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: pergamino
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12602,7 +12602,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 463850304}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Triggers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12641,7 +12641,7 @@ GameObject:
   - component: {fileID: 542425502}
   - component: {fileID: 542425504}
   - component: {fileID: 542425503}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13722,7 +13722,7 @@ GameObject:
   m_Component:
   - component: {fileID: 603010526}
   - component: {fileID: 603010527}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Exclamaciones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13769,6 +13769,11 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!20 &636084171 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 6211908153682270633, guid: c717bbae78df15a458ac50fa5cf2c36c, type: 3}
+  m_PrefabInstance: {fileID: 1218301874}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &637662938
 GameObject:
   m_ObjectHideFlags: 0
@@ -13778,7 +13783,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 637662939}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Triggers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13877,7 +13882,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 707626347}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Maleficio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13913,7 +13918,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 750815712}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fantasma
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13950,7 +13955,7 @@ GameObject:
   m_Component:
   - component: {fileID: 756067237}
   - component: {fileID: 756067238}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14034,7 +14039,7 @@ GameObject:
   m_Component:
   - component: {fileID: 789935853}
   - component: {fileID: 789935855}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (2)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14118,7 +14123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 797573731}
   - component: {fileID: 797573732}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Exclamaciones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14172,7 +14177,7 @@ GameObject:
   m_Component:
   - component: {fileID: 814802380}
   - component: {fileID: 814802379}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Grid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14221,7 +14226,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 892267722}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enterrador
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14257,7 +14262,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 930763324}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Triggers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14421,7 +14426,7 @@ GameObject:
   - component: {fileID: 960522401}
   - component: {fileID: 960522403}
   - component: {fileID: 960522402}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: txt1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14497,7 +14502,7 @@ GameObject:
   - component: {fileID: 967528273}
   - component: {fileID: 967528275}
   - component: {fileID: 967528274}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15555,7 +15560,7 @@ GameObject:
   - component: {fileID: 981225318}
   - component: {fileID: 981225320}
   - component: {fileID: 981225319}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Salida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15628,7 +15633,7 @@ GameObject:
   - component: {fileID: 1001437621}
   - component: {fileID: 1001437623}
   - component: {fileID: 1001437622}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: esqueletos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15705,7 +15710,7 @@ GameObject:
   - component: {fileID: 1006113337}
   - component: {fileID: 1006113339}
   - component: {fileID: 1006113338}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: lampara
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15780,7 +15785,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1006344927}
   - component: {fileID: 1006344928}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15865,7 +15870,7 @@ GameObject:
   - component: {fileID: 1019182648}
   - component: {fileID: 1019182650}
   - component: {fileID: 1019182649}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: entrada
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15941,7 +15946,7 @@ GameObject:
   - component: {fileID: 1021760328}
   - component: {fileID: 1021760330}
   - component: {fileID: 1021760329}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: calavera1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16016,7 +16021,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1044364815}
   - component: {fileID: 1044364816}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16100,7 +16105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1129575621}
   - component: {fileID: 1129575622}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16185,7 +16190,7 @@ GameObject:
   - component: {fileID: 1148450173}
   - component: {fileID: 1148450175}
   - component: {fileID: 1148450174}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: caldero
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16260,7 +16265,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1168114699}
   - component: {fileID: 1168114700}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (4)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16409,6 +16414,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6211908153682270635, guid: c717bbae78df15a458ac50fa5cf2c36c, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c717bbae78df15a458ac50fa5cf2c36c, type: 3}
 --- !u!1 &1240588860
@@ -16421,7 +16430,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1240588861}
   - component: {fileID: 1240588863}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16506,7 +16515,7 @@ GameObject:
   - component: {fileID: 1250194979}
   - component: {fileID: 1250194981}
   - component: {fileID: 1250194980}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18232,7 +18241,7 @@ GameObject:
   - component: {fileID: 1375030332}
   - component: {fileID: 1375030331}
   - component: {fileID: 1375030330}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20726,7 +20735,7 @@ GameObject:
   - component: {fileID: 1383131166}
   - component: {fileID: 1383131168}
   - component: {fileID: 1383131167}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Salida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20799,7 +20808,7 @@ GameObject:
   - component: {fileID: 1388638063}
   - component: {fileID: 1388638065}
   - component: {fileID: 1388638064}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: txt1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20879,7 +20888,7 @@ GameObject:
   - component: {fileID: 1395421343}
   - component: {fileID: 1395421342}
   - component: {fileID: 1395421341}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23224,7 +23233,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1401054900}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Triggers (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23261,7 +23270,7 @@ GameObject:
   - component: {fileID: 1410845091}
   - component: {fileID: 1410845093}
   - component: {fileID: 1410845092}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fantasma
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23335,7 +23344,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1414766198}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Baile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23431,7 +23440,7 @@ GameObject:
   - component: {fileID: 1448526242}
   - component: {fileID: 1448526244}
   - component: {fileID: 1448526243}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: esqueletos (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23507,7 +23516,7 @@ GameObject:
   - component: {fileID: 1460028604}
   - component: {fileID: 1460028606}
   - component: {fileID: 1460028605}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: txt2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23582,7 +23591,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1483985476}
   - component: {fileID: 1483985475}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23667,7 +23676,7 @@ GameObject:
   - component: {fileID: 1487608367}
   - component: {fileID: 1487608369}
   - component: {fileID: 1487608368}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24378,7 +24387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1489180084}
   - component: {fileID: 1489180086}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24463,7 +24472,7 @@ GameObject:
   - component: {fileID: 1498511025}
   - component: {fileID: 1498511027}
   - component: {fileID: 1498511026}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Salida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24535,7 +24544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1525229315}
   - component: {fileID: 1525229317}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (3)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24619,7 +24628,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1603387810}
   - component: {fileID: 1603387811}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Exclamaciones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24781,7 +24790,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1624392764}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Triggers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24817,7 +24826,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1653361473}
   - component: {fileID: 1653361474}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Exclamaciones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25049,7 +25058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1679608284}
   - component: {fileID: 1679608285}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (2)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25134,7 +25143,7 @@ GameObject:
   - component: {fileID: 1709075490}
   - component: {fileID: 1709075492}
   - component: {fileID: 1709075491}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Salida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25207,7 +25216,7 @@ GameObject:
   - component: {fileID: 1730209454}
   - component: {fileID: 1730209456}
   - component: {fileID: 1730209455}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: calavera2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25391,7 +25400,7 @@ GameObject:
   - component: {fileID: 1747416071}
   - component: {fileID: 1747416070}
   - component: {fileID: 1747416069}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28662,7 +28671,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1761408921}
   - component: {fileID: 1761408923}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28747,7 +28756,7 @@ GameObject:
   - component: {fileID: 1775881635}
   - component: {fileID: 1775881637}
   - component: {fileID: 1775881636}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: frase inicial
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28823,7 +28832,7 @@ GameObject:
   - component: {fileID: 1797527731}
   - component: {fileID: 1797527733}
   - component: {fileID: 1797527732}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Salida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29064,7 +29073,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1856630971}
   - component: {fileID: 1856630973}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (4)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29149,7 +29158,7 @@ GameObject:
   - component: {fileID: 1862181927}
   - component: {fileID: 1862181929}
   - component: {fileID: 1862181928}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: entrada
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29224,7 +29233,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1886641190}
   - component: {fileID: 1886641191}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29308,7 +29317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1902765485}
   - component: {fileID: 1902765486}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Exclamaciones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29363,7 +29372,7 @@ GameObject:
   - component: {fileID: 1907170792}
   - component: {fileID: 1907170794}
   - component: {fileID: 1907170793}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: inicio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29438,7 +29447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1934223368}
   - component: {fileID: 1934223369}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (4)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29523,7 +29532,7 @@ GameObject:
   - component: {fileID: 1972476045}
   - component: {fileID: 1972476047}
   - component: {fileID: 1972476046}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: entrada
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29599,7 +29608,7 @@ GameObject:
   - component: {fileID: 2006079224}
   - component: {fileID: 2006079226}
   - component: {fileID: 2006079225}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: botas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29836,7 +29845,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2007485840}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Triggers (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29953,7 +29962,7 @@ GameObject:
   - component: {fileID: 2071851598}
   - component: {fileID: 2071851600}
   - component: {fileID: 2071851599}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: calavera3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30029,7 +30038,7 @@ GameObject:
   - component: {fileID: 2076566214}
   - component: {fileID: 2076566216}
   - component: {fileID: 2076566215}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30624,7 +30633,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2090939064}
   - component: {fileID: 2090939065}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (3)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30712,7 +30721,7 @@ GameObject:
   - component: {fileID: 2096459337}
   - component: {fileID: 2096459336}
   - component: {fileID: 2096459335}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Capa1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33276,7 +33285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2127395945}
   - component: {fileID: 2127395947}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "exclamaci\xF3n (2)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33385,7 +33394,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 1
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 636084171}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -33394,7 +33403,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_TargetDisplay: 0
 --- !u!114 &2943562986105562826
 MonoBehaviour:

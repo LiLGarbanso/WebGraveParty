@@ -11,7 +11,7 @@ public class ItemTrigger : MonoBehaviour
     public LoreMannager lm;
     public int capa;
     public string frase;
-    private bool puedeEntrar = true, dentro;
+    private bool  dentro;
     public bool tp;
 
     private void Start()
